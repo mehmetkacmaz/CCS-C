@@ -1,0 +1,16 @@
+[PROJECT]
+Target=timer.hex
+Processor_Text=PIC16F877
+CCSVersion=5.007
+Compiler=PCM
+[Target Data]
+FileList=timer.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[timer.c]
+Type=4
+[mru-list]
+1=timer.c
+[Units]
+Count=1
+1=timer (main)
